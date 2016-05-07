@@ -1,0 +1,10 @@
+<ul class="heroes">
+  <li *ngFor="let conv of conversazioni" (click)="onSelect(conv)" [class.selected]="conv===selectedConv">
+    <span class="badge">{{conv.id}}</span> {{conv.nome}}
+  </li>
+</ul>
+<input #newConv type="text" placeholder="Crea conversazione" (keyup.enter)="onCreaClick(newConv.value)" />
+<button (click)="onCreaClick(newConv.value); newConv.value=''">Crea</button>
+
+
+<conversazione [conv]="selectedConv"></conversazione>

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 11,
+    "nome": "Chewbacca",
+    "twitter": "@im_chewy"
+  },
+  {
+    "id": 12,
+    "nome": "Rey",
+    "twitter": "@rey"
+  },
+  {
+    "id": 13,
+    "nome": "Finn (FN2187)",
+    "twitter": "@finn"
+  },
+  {
+    "id": 14,
+    "nome": "Han Solo",
+    "twitter": "@i_know"
+  },
+  {
+    "id": 15,
+    "nome": "Leia Organa",
+    "twitter": "@organa"
+  },
+  {
+    "id": 16,
+    "nome": "Luke Skywalker",
+    "twitter": "@chosen_one_son"
+  },
+  {
+    "id": 17,
+    "nome": "Poe Dameron",
+    "twitter": "@i_am_poe"
+  },
+  {
+    "id": 18,
+    "nome": "Kylo Ren",
+    "twitter": "@daddy_issues"
+  },
+  {
+    "id": 19,
+    "nome": "Supreme Commander Snoke",
+    "twitter": "@snoker"
+  },
+  {
+    "id": 20,
+    "nome": "R2-D2",
+    "twitter": "@r2d2"
+  },
+  {
+    "id": 21,
+    "nome": "BB8",
+    "twitter": "@bb_eight"
+  }
+]
