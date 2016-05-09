@@ -1,0 +1,57 @@
+[
+  {
+    "id": 11,
+    "messaggio": "Chewbacca",
+    "idConv": 11
+  },
+  {
+    "id": 12,
+    "messaggio": "Rey",
+     "idConv": 11
+  },
+  {
+    "id": 13,
+    "messaggio": "Finn (FN2187)",
+    "idConv": 11
+  },
+  {
+    "id": 14,
+    "messaggio": "Han Solo",
+     "idConv": 11
+  },
+  {
+    "id": 15,
+    "messaggio": "Leia Organa",
+    "idConv": 11
+  },
+  {
+    "id": 16,
+    "messaggio": "Luke Skywalker",
+     "idConv": 11
+  },
+  {
+    "id": 17,
+    "messaggio": "Poe Dameron",
+     "idConv": 11
+  },
+  {
+    "id": 18,
+    "messaggio": "Kylo Ren",
+     "idConv": 11
+  },
+  {
+    "id": 19,
+    "messaggio": "Supreme Commander Snoke",
+     "idConv": 11
+  },
+  {
+    "id": 20,
+    "messaggio": "R2-D2",
+     "idConv": 11
+  },
+  {
+    "id": 21,
+    "messaggio": "BB8",
+    "idConv": 11
+  }
+]

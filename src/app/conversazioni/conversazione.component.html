@@ -1,3 +1,8 @@
 <div *ngIf="conv">
   We selected <input [(ngModel)]="conv.nome"> 
+  <ul class="heroes">
+  <li  *ngIf="conv" *ngFor="let msg of conv.messaggi">
+    {{msg.messaggio}}
+  </li>
+</ul>
 </div> 
